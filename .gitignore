@@ -39,3 +39,17 @@ pnpm-debug.log*
 next-env.d.ts
 
 /generated/prisma
+
+# test results
+/test-results/
+/playwright-report/
+
+# vercel
+/.vercel/
+
+# playwright
+/playwright/.cache/
+/playwright-report/
+
+# logs
+*.log
